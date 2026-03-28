@@ -11,7 +11,7 @@ import {
   LoremText,
   Select,
   LoremIcon
-} from './styled.js';
+} from './style.js';
 
 import { useEffect, useState } from 'react';
 
