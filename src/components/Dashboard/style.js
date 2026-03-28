@@ -1,6 +1,6 @@
 import styled, { keyframes } from "styled-components";
 import Frame from "../../assets/icons/frame.svg?react";
-import Logo from "../../assets/icons/Logo.svg?react";
+import Logo from "../../assets/icons/logo.svg?react"; 
 import UserImage from "../../assets/icons/user-image.svg?react";
 import Delete from "../../assets/icons/delete.svg?react";
 import Edit from "../../assets/icons/edit.svg?react";
